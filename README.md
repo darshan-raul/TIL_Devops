@@ -20,3 +20,10 @@ https://aws.amazon.com/blogs/compute/introducing-aws-lambda-extensions-in-previe
 https://github.com/elastic/curator
 So if you need to rollover the old indexes, a simple command like `curator --host localhost delete indices --older-than 30 --time-unit days --timestring '%Y.%m.%d'`
 can help
+
+# Docker
+
+## Basics
+
+- Overlay file system 
+https://napicella.medium.com/how-are-docker-images-built-a-look-into-the-linux-overlay-file-systems-and-the-oci-specification-51d65c73c416
