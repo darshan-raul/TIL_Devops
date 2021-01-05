@@ -27,3 +27,8 @@ can help
 
 - Overlay file system 
 https://napicella.medium.com/how-are-docker-images-built-a-look-into-the-linux-overlay-file-systems-and-the-oci-specification-51d65c73c416
+
+# Linux
+
+## Kernel and boot process (TLDR)
+https://charmanderander.gitbooks.io/deep-dive/content/
