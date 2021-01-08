@@ -33,9 +33,11 @@ https://napicella.medium.com/how-are-docker-images-built-a-look-into-the-linux-o
 ## Kernel and boot process (TLDR)
 https://charmanderander.gitbooks.io/deep-dive/content/
 
+# https://www.gnu.org/software/parallel/
 
 # Networking
 
 # TCP/Ip Model
 
 - It is also sometimes referred to as the Department of Defense (DoD) Model,
+
