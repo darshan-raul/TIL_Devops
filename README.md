@@ -30,6 +30,9 @@ https://napicella.medium.com/how-are-docker-images-built-a-look-into-the-linux-o
 
 # Linux
 
+## Hardening
+https://www.howtogeek.com/118222/htg-explains-what-apparmor-is-and-how-it-secures-your-ubuntu-system/
+
 ## Kernel and boot process (TLDR)
 https://charmanderander.gitbooks.io/deep-dive/content/
 
