@@ -35,7 +35,8 @@ https://napicella.medium.com/how-are-docker-images-built-a-look-into-the-linux-o
 
 ## Hardening
 https://www.howtogeek.com/118222/htg-explains-what-apparmor-is-and-how-it-secures-your-ubuntu-system/
-
+https://github.com/decalage2/awesome-security-hardening https://www.tecmint.com/linux-server-hardening-security-tips/ https://www.ubuntupit.com/best-linux-hardening-security-tips-a-comprehensive-checklist/ https://github.com/trimstray/linux-hardening-checklist/blob/master/README.md https://github.com/imthenachoman/How-To-Secure-A-Linux-Server https://madaidans-insecurities.github.io/guides/linux-hardening.html
+ 
 ## Kernel and boot process (TLDR)
 https://charmanderander.gitbooks.io/deep-dive/content/
 
