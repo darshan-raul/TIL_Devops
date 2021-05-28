@@ -15,6 +15,10 @@ https://aws.amazon.com/blogs/compute/introducing-aws-lambda-extensions-in-previe
 ### VPC
 - Vpc reacahability analyzer
 https://docs.aws.amazon.com/vpc/latest/reachability/getting-started.html
+
+### IAC:
+Pulumi
+https://www.youtube.com/watch?v=vIjeiDcsR3Q
 # Monitoring
 
 ## ElasticSearch
