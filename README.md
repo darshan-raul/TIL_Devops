@@ -16,6 +16,11 @@ https://aws.amazon.com/blogs/compute/introducing-aws-lambda-extensions-in-previe
 - Vpc reacahability analyzer
 https://docs.aws.amazon.com/vpc/latest/reachability/getting-started.html
 
+### Aurora
+
+https://www.youtube.com/watch?v=I4uOEoUYPC8
+https://www.youtube.com/watch?v=3DClteE-AUc&list=PLiH9_MU-6RjI9gdFqmvUfKRfw_zRxIb6o&index=23&t=634s
+
 ### IAC:
 Pulumi
 https://www.youtube.com/watch?v=vIjeiDcsR3Q
