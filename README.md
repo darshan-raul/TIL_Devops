@@ -65,3 +65,10 @@ https://charmanderander.gitbooks.io/deep-dive/content/
 
 - It is also sometimes referred to as the Department of Defense (DoD) Model,
 
+# What are sockets:
+A socket is just a logical endpoint for communication.
+They exist on the transport layer. 
+You can send and receive things on a socket, you can bind and listen to a socket.
+A socket is specific to a protocol, machine, and port, and is addressed as such in the header of a packet.
+https://unix.stackexchange.com/a/193824
+https://www.youtube.com/watch?v=uXve8WYiGts
