@@ -65,6 +65,9 @@ https://charmanderander.gitbooks.io/deep-dive/content/
 
 - It is also sometimes referred to as the Department of Defense (DoD) Model,
 
+# HTTPS:
+https://www.youtube.com/watch?v=10aVMoalON8
+
 # What are sockets:
 A socket is just a logical endpoint for communication.
 They exist on the transport layer. 
