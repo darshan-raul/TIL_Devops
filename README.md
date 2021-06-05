@@ -47,7 +47,7 @@ https://napicella.medium.com/how-are-docker-images-built-a-look-into-the-linux-o
 https://learnk8s.io/kubernetes-autoscaling-strategies
 
 # Linux
-
+https://github.com/chassing/linux-sysadmin-interview-questions/blob/master/README.md#simple
 https://www.youtube.com/playlist?list=PL426FzyFBwBphstVtquPX2THCD8ESzyMD
 
 ## Hardening
