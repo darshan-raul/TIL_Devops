@@ -46,6 +46,10 @@ https://napicella.medium.com/how-are-docker-images-built-a-look-into-the-linux-o
 
 https://learnk8s.io/kubernetes-autoscaling-strategies
 
+## Helm
+
+https://www.youtube.com/watch?v=5_J7RWLLVeQ
+
 # Linux
 
 https://github.com/chassing/linux-sysadmin-interview-questions/blob/master/README.md#simple
