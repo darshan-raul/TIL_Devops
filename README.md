@@ -66,6 +66,7 @@ https://github.com/decalage2/awesome-security-hardening https://www.tecmint.com/
 ## Kernel and boot process (TLDR)
 https://charmanderander.gitbooks.io/deep-dive/content/
 
+https://www.howtoforge.com/how-to-increase-the-disk-space-of-an-aws-ec2-ubuntu-instance/
 # https://www.gnu.org/software/parallel/
 
 # Networking
