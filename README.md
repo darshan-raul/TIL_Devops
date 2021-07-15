@@ -16,6 +16,10 @@ https://aws.amazon.com/blogs/compute/introducing-aws-lambda-extensions-in-previe
 - Vpc reacahability analyzer
 https://docs.aws.amazon.com/vpc/latest/reachability/getting-started.html
 
+### Cert preparation
+
+https://towardsaws.com/solutions-architect-associate-exam-cheat-sheet-saa-c02-1d22b798d9ac
+
 ### Aurora
 
 https://www.youtube.com/watch?v=I4uOEoUYPC8
@@ -26,6 +30,9 @@ https://www.youtube.com/watch?v=ciRbXZqBl7M
 ### IAC:
 Pulumi
 https://www.youtube.com/watch?v=vIjeiDcsR3Q
+
+
+
 # Monitoring
 
 ## ElasticSearch
@@ -34,6 +41,7 @@ https://www.youtube.com/watch?v=vIjeiDcsR3Q
 https://github.com/elastic/curator
 So if you need to rollover the old indexes, a simple command like `curator --host localhost delete indices --older-than 30 --time-unit days --timestring '%Y.%m.%d'`
 can help
+
 
 # Docker
 
@@ -45,6 +53,7 @@ https://napicella.medium.com/how-are-docker-images-built-a-look-into-the-linux-o
 ## K8s
 
 https://learnk8s.io/kubernetes-autoscaling-strategies
+https://blog.datacamp.engineering/understanding-the-kubernetes-docker-deprecation-notice-by-dummies-for-dummies-c9f2685486e0
 
 ## Helm
 
@@ -85,3 +94,7 @@ You can send and receive things on a socket, you can bind and listen to a socket
 A socket is specific to a protocol, machine, and port, and is addressed as such in the header of a packet.
 https://unix.stackexchange.com/a/193824
 https://www.youtube.com/watch?v=uXve8WYiGts
+
+# Devops Learning
+
+https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737
