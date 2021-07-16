@@ -98,3 +98,9 @@ https://www.youtube.com/watch?v=uXve8WYiGts
 # Devops Learning
 
 https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737
+
+
+# Devops principle blogs
+
+- https://nordicapis.com/the-bezos-api-mandate-amazons-manifesto-for-externalization/
+- https://lambda.grofers.com/devops-for-self-determination-28f37cc7dc82
